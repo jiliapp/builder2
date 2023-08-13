@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.bbbang.builder
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle
+features: [app-name, gradle, hibernate-validator, http-client-test, jackson-databind, junit, kapt, kotlin, kotlin-application, kotlin-extension-functions, logback, management, micronaut-aot, micronaut-build, netty-server, openapi, readme, security-annotations, security-jwt, shade, swagger-ui, test-resources, views-thymeleaf, yaml, yaml-build]
